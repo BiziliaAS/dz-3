@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<students>
+  <id>1</id>
+  <name>Andrii</name>
+  <age>23</age>
+  <gayOrlesbian>false</gayOrlesbian>
+  <gender>male</gender>
+  <class>6</class>
+  <city>Kyiv</city>
+  <street>Svobody</street>
+  <houseNumber>91</houseNumber>
+  <phoneNumber>380661378895</phoneNumber>
+  <description>
+    <hairColor>black</hairColor>
+    <eyesColor>blue</eyesColor>
+    <faceType>default</faceType>
+  </description>
+
+  <id>2</id>
+  <name>Anton</name>
+  <age>23</age>
+  <gayOrlesbian>true</gayOrlesbian>
+  <gender>male</gender>
+  <class>6</class>
+  <city>Kyiv</city>
+  <street>Peremogy</street>
+  <houseNumber>35</houseNumber>
+  <phoneNumber>380951370795</phoneNumber>
+  <description>
+    <hairColor>white</hairColor>
+    <eyesColor>blue</eyesColor>
+    <faceType>default</faceType>
+  </description>
+
+ 
+ </students>

@@ -1,0 +1,18 @@
+student:
+  id: '1'
+  name: Andrii
+  age: 23
+  gay/lesbian: false
+  gender: male
+  class: 6
+  diseases: null
+  city: Kyiv
+  street: Svobody
+  houseNumber: 91
+  phoneNumber: 380661378895
+  description:
+    hairColor: black
+    eyesColor: blue
+    faceType: default
+  parent1Information: "father \"Semen\" 380992896610"
+  parent2Information: "mother \"Olena\" 380992896611"
